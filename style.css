@@ -10,6 +10,9 @@
     align-items: center;
 }
 
+img {
+  max-width: 100%;
+}
 
 #tribute-info{
     display: flex;
@@ -26,3 +29,6 @@ div ul{
     margin-right: 164px;
 }
 
+li{
+    list-style-position: outside;
+}
