@@ -1,0 +1,28 @@
+#title{
+    display: flex;
+    flex-flow: column wrap;
+    align-items: center;
+}
+
+#img-div{
+    display: flex;
+    flex-flow: column wrap;
+    align-items: center;
+}
+
+
+#tribute-info{
+    display: flex;
+    flex-flow: column wrap;
+    align-items: center;
+   
+    
+}
+
+div ul{
+    display: inline-block;
+    list-style: inside;
+    margin-left: 164px;
+    margin-right: 164px;
+}
+
